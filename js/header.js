@@ -62,17 +62,17 @@ document.addEventListener("DOMContentLoaded", function () {
                 onclick="window.location.href = './pricing.html';">Plans</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
                 <li><a class="dropdown-header">Dedicated Workspaces</a></li>
-                <li><a class="dropdown-item" href="/plan/private-office.html">Private Office</a></li>
-                <li><a class="dropdown-item" href="/plan/dedicated.html">Dedicated Desk</a></li>
-                <li><a class="dropdown-item" href="/plan/enterprise.html">Enterprises solution</a></li>
+                <li><a class="dropdown-item" href="plan/private-office.html">Private Office</a></li>
+                <li><a class="dropdown-item" href="plan/dedicated.html">Dedicated Desk</a></li>
+                <li><a class="dropdown-item" href="plan/enterprise.html">Enterprises solution</a></li>
                 <li>  
                   <hr class="dropdown-divider">
                 </li>
                 <li><a class="dropdown-header fw-light ">Flexible Workspaces</a></li>
-                <li><a class="dropdown-item" href="/plan/coworking.html">Coworking</a></li>
-                <li><a class="dropdown-item" href="/plan/meeting.html">Meeting Room</a></li>
-                <li><a class="dropdown-item" href="/plan/virtual-office.html">Virtual Office</a></li>
-                <li><a class="dropdown-item" href="/plan/on-the-go.html">On-the-Go</a></li>
+                <li><a class="dropdown-item" href="../plan/coworking.html">Coworking</a></li>
+                <li><a class="dropdown-item" href="../plan/meeting.html">Meeting Room</a></li>
+                <li><a class="dropdown-item" href="../plan/virtual-office.html">Virtual Office</a></li>
+                <li><a class="dropdown-item" href="../plan/on-the-go.html">On-the-Go</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
