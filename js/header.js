@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                   <!-- Column 2 -->
                   <div class="col-md-6">
-                    <li><a class="dropdown-item" href="/location/jaipur.html">Jaipur</a></li>
+                    <li><a class="dropdown-item" href="/wish-prd/location/jaipur.html">Jaipur</a></li>
                     <li><a class="dropdown-item disabled" href="/location/chennai.html">Chennai</a></li>
                     <li><a class="dropdown-item disabled" href="/location/kochi.html">Kochi</a></li>
                     <li><a class="dropdown-item disabled" href="/location/bhubaneswar.html">Bhubaneswar</a>
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   <div class="col-md-6">
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-chennai.html">Chennai</a></li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-kochi.html">Kochi</a></li>
-                    <li><a class="dropdown-item " href="./virtual-office/virtual-space-jaipur.html">Jaipur</a></li>
+                    <li><a class="dropdown-item " href="/wish-prd/virtual-office/virtual-space-jaipur.html">Jaipur</a></li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-bhubaneswar.html">Bhubaneswar</a>
                     </li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-coimbatore.html">Coimbatore</a>
@@ -135,14 +135,14 @@ document.addEventListener("DOMContentLoaded", function () {
                 </div>
 
 
-                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="./virtual-office.html">View All
+                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="/wish-prd/virtual-office.html">View All
                     Locations</a></li>
               </ul>
             </li>
 
 
             <li class="nav-item">
-              <a class="nav-link" href="./event.html">Events</a>
+              <a class="nav-link" href="/wish-prd/event.html">Events</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link" href="blog.html">Blog</a>
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
             </li> -->
           </ul>
           <div class="d-flex">
-            <a href="/contact.html" class="btn btn-book-tour me-3 btn-outline-dark px-1 py-1">Book Tour</a>
+            <a href="contact.html" class="btn btn-book-tour me-3 btn-outline-dark px-1 py-1">Book Tour</a>
           </div>
         </div>
       </div>
