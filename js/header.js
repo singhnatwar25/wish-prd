@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <header id="navbar">
     <nav class="navbar navbar-expand-lg fixed-top box-shadow" >
       <div class="container">
-        <a class="navbar-brand font-monospace fs-4" href="/">WISH<span class="text-dark">COWORK</span></a>
+        <a class="navbar-brand font-monospace fs-4" href="/wish-prd/">WISH<span class="text-dark">COWORK</span></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -59,20 +59,20 @@ document.addEventListener("DOMContentLoaded", function () {
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="pricing.html" id="plansDropdown" role="button"
                 data-bs-toggle="dropdown" aria-expanded="false"
-                onclick="window.location.href = 'pricing.html';">Plans</a>
+                onclick="window.location.href = '/wish-prd/pricing.html';">Plans</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
                 <li><a class="dropdown-header">Dedicated Workspaces</a></li>
-                <li><a class="dropdown-item" href="./plan/private-office.html">Private Office</a></li>
-                <li><a class="dropdown-item" href="./plan/dedicated.html">Dedicated Desk</a></li>
-                <li><a class="dropdown-item" href="./plan/enterprise.html">Enterprises solution</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/private-office.html">Private Office</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/dedicated.html">Dedicated Desk</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/enterprise.html">Enterprises solution</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
                 <li><a class="dropdown-header fw-light ">Flexible Workspaces</a></li>
-                <li><a class="dropdown-item" href="./plan/coworking.html">Coworking</a></li>
-                <li><a class="dropdown-item" href="./plan/meeting.html">Meeting Room</a></li>
-                <li><a class="dropdown-item" href="./plan/virtual-office.html">Virtual Office</a></li>
-                <li><a class="dropdown-item" href="./plan/on-the-go.html">On-the-Go</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/coworking.html">Coworking</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/meeting.html">Meeting Room</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/virtual-office.html">Virtual Office</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/on-the-go.html">On-the-Go</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
