@@ -62,17 +62,17 @@ document.addEventListener("DOMContentLoaded", function () {
                 onclick="window.location.href = './pricing.html';">Plans</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
                 <li><a class="dropdown-header">Dedicated Workspaces</a></li>
-                <li><a class="dropdown-item" href="plan/private-office.html">Private Office</a></li>
-                <li><a class="dropdown-item" href="plan/dedicated.html">Dedicated Desk</a></li>
-                <li><a class="dropdown-item" href="plan/enterprise.html">Enterprises solution</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/private-office.html">Private Office</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/dedicated.html">Dedicated Desk</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/enterprise.html">Enterprises solution</a></li>
                 <li>  
                   <hr class="dropdown-divider">
                 </li>
                 <li><a class="dropdown-header fw-light ">Flexible Workspaces</a></li>
-                <li><a class="dropdown-item" href="../plan/coworking.html">Coworking</a></li>
-                <li><a class="dropdown-item" href="../plan/meeting.html">Meeting Room</a></li>
-                <li><a class="dropdown-item" href="../plan/virtual-office.html">Virtual Office</a></li>
-                <li><a class="dropdown-item" href="../plan/on-the-go.html">On-the-Go</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/coworking.html">Coworking</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/meeting.html">Meeting Room</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/virtual-office.html">Virtual Office</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/plan/on-the-go.html">On-the-Go</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -80,10 +80,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 data-bs-toggle="dropdown" aria-expanded="false"
                 onclick="window.location.href = '/bussiness-service.html';">Bussiness Service</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
-                <li><a class="dropdown-item" href="/incorporation-services.html">Incorporation Services</a></li>
-                <li><a class="dropdown-item" href="/tax-accounting.html">Tax and Accounting</a></li>
-                <li><a class="dropdown-item" href="/delivery-courier.html">Delivery & Courier</a></li>
-                <li><a class="dropdown-item" href="/other-legal-services.html">Other Legal Cervices</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/incorporation-services.html">Incorporation Services</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/tax-accounting.html">Tax and Accounting</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/delivery-courier.html">Delivery & Courier</a></li>
+                <li><a class="dropdown-item" href="/wish-prd/other-legal-services.html">Other Legal Cervices</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
