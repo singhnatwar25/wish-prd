@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
             </li> -->
           </ul>
           <div class="d-flex">
-            <a href="contact.html" class="btn btn-book-tour me-3 btn-outline-dark px-1 py-1">Book Tour</a>
+            <a href="/wish-prd/contact.html" class="btn btn-book-tour me-3 btn-outline-dark px-1 py-1">Book Tour</a>
           </div>
         </div>
       </div>
