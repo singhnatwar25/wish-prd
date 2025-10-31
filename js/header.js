@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             <li class="nav-item">
-              <a class="nav-link" href="../event.html">Events</a>
+              <a class="nav-link" href="./event.html">Events</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link" href="blog.html">Blog</a>
