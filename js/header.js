@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="location.html" id="locationDropdown" role="button"
                   data-bs-toggle="dropdown" aria-expanded="false"
-                  onclick="window.location.href = '/location.html';">Locations</a>
+                  onclick="window.location.href = 'location.html';">Locations</a>
                 <ul class="dropdown-menu p-3" aria-labelledby="locationDropdown" style="min-width: 400px;">
 
                   <li><a class="dropdown-header">Popular Locations</a></li>
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   </div>
                 </div>
 
-                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="/location.html">View All
+                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="location.html">View All
                     Locations</a></li>
               </ul>
             </li>
@@ -59,20 +59,20 @@ document.addEventListener("DOMContentLoaded", function () {
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="pricing.html" id="plansDropdown" role="button"
                 data-bs-toggle="dropdown" aria-expanded="false"
-                onclick="window.location.href = '/pricing.html';">Plans</a>
+                onclick="window.location.href = 'pricing.html';">Plans</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
                 <li><a class="dropdown-header">Dedicated Workspaces</a></li>
-                <li><a class="dropdown-item" href="../plan/private-office.html">Private Office</a></li>
-                <li><a class="dropdown-item" href="../plan/dedicated.html">Dedicated Desk</a></li>
-                <li><a class="dropdown-item" href="../plan/enterprise.html">Enterprises solution</a></li>
+                <li><a class="dropdown-item" href="./plan/private-office.html">Private Office</a></li>
+                <li><a class="dropdown-item" href="./plan/dedicated.html">Dedicated Desk</a></li>
+                <li><a class="dropdown-item" href="./plan/enterprise.html">Enterprises solution</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
                 <li><a class="dropdown-header fw-light ">Flexible Workspaces</a></li>
-                <li><a class="dropdown-item" href="../plan/coworking.html">Coworking</a></li>
-                <li><a class="dropdown-item" href="../plan/meeting.html">Meeting Room</a></li>
-                <li><a class="dropdown-item" href="../plan/virtual-office.html">Virtual Office</a></li>
-                <li><a class="dropdown-item" href="../plan/on-the-go.html">On-the-Go</a></li>
+                <li><a class="dropdown-item" href="./plan/coworking.html">Coworking</a></li>
+                <li><a class="dropdown-item" href="./plan/meeting.html">Meeting Room</a></li>
+                <li><a class="dropdown-item" href="./plan/virtual-office.html">Virtual Office</a></li>
+                <li><a class="dropdown-item" href="./plan/on-the-go.html">On-the-Go</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -89,11 +89,11 @@ document.addEventListener("DOMContentLoaded", function () {
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="space.html" id="plansDropdown" role="button"
                 data-bs-toggle="dropdown" aria-expanded="false"
-                onclick="window.location.href = '/space.html';">Space</a>
+                onclick="window.location.href = 'space.html';">Space</a>
               <ul class="dropdown-menu" aria-labelledby="plansDropdown">
                 <li><a class="dropdown-header">Functional Spaces</a></li>
-                <li><a class="dropdown-item" href="../space/studio-podcast.html">studio podcast</a></li>
-                <li><a class="dropdown-item" href="../space/event-space.html">Event Space</a></li>
+                <li><a class="dropdown-item" href="./space/studio-podcast.html">studio podcast</a></li>
+                <li><a class="dropdown-item" href="./space/event-space.html">Event Space</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   <div class="col-md-6">
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-chennai.html">Chennai</a></li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-kochi.html">Kochi</a></li>
-                    <li><a class="dropdown-item " href="/virtual-office/virtual-space-jaipur.html">Jaipur</a></li>
+                    <li><a class="dropdown-item " href="./virtual-office/virtual-space-jaipur.html">Jaipur</a></li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-bhubaneswar.html">Bhubaneswar</a>
                     </li>
                     <li><a class="dropdown-item disabled" href="/virtual-office/virtual-space-coimbatore.html">Coimbatore</a>
@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 </div>
 
 
-                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="../virtual-office.html">View All
+                <li><a class="dropdown-item text-primary fw-bold text-center mt-2" href="./virtual-office.html">View All
                     Locations</a></li>
               </ul>
             </li>
